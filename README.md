@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! I'm not sure what you're hoping to find here...I'm just a guy...that builds web pages...and does some other stuff.
 
 <!--
 **aScruffyMind/aScruffyMind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
