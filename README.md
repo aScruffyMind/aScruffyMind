@@ -1,4 +1,6 @@
-### Hello! I'm not sure what you're hoping to find here...I'm just a guy...that builds web pages...and does some other stuff.
+### Scruffy minds like me like puzzles. We enjoy walking down unpredictable avenues of thought... turning new corners but as a general rule, scruffy minds don't commit murder.
+
+-Brad Wilczek
 
 <!--
 **aScruffyMind/aScruffyMind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
