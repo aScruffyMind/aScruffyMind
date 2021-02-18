@@ -1,4 +1,4 @@
-### Scruffy minds like me like puzzles. We enjoy walking down unpredictable avenues of thought... turning new corners but as a general rule, scruffy minds don't commit murder.
+##### Scruffy minds like me like puzzles. We enjoy walking down unpredictable avenues of thought... turning new corners but as a general rule, scruffy minds don't commit murder.
 
 -Brad Wilczek
 
